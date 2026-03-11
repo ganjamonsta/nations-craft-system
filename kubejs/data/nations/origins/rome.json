@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_rome"
+  ],
+  "icon": {
+    "item": "kubejs:flag_rome"
+  },
+  "order": 13,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.rome.name",
+  "description": "origin.nations.rome.description"
+}

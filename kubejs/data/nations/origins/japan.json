@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_japan"
+  ],
+  "icon": {
+    "item": "kubejs:flag_japan"
+  },
+  "order": 11,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.japan.name",
+  "description": "origin.nations.japan.description"
+}

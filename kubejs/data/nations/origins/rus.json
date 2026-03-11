@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_rus"
+  ],
+  "icon": {
+    "item": "kubejs:flag_rus"
+  },
+  "order": 7,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.rus.name",
+  "description": "origin.nations.rus.description"
+}

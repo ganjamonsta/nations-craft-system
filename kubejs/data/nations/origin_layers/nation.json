@@ -1,0 +1,30 @@
+{
+  "order": 0,
+  "origins": [
+    "nations:scandinavia",
+    "nations:byzantium",
+    "nations:saracens",
+    "nations:germany",
+    "nations:england",
+    "nations:france",
+    "nations:rus",
+    "nations:mongolia",
+    "nations:china",
+    "nations:korea",
+    "nations:japan",
+    "nations:greece",
+    "nations:rome",
+    "nations:egypt"
+  ],
+  "name": "layer.nations.nation.name",
+  "gui_title": {
+    "translate": "layer.nations.nation.gui_title"
+  },
+  "missing_name": "layer.nations.nation.missing_name",
+  "missing_description": "layer.nations.nation.missing_description",
+  "allow_random": false,
+  "allow_random_unchoosable": false,
+  "auto_choose": false,
+  "hidden": false,
+  "replace": false
+}

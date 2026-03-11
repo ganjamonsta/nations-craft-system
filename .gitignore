@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Raw data (too large for repo)
+docs/raw list of items.txt
+
+# Session / temp
+docs/прошлый чат
+*.tmp
+*.bak

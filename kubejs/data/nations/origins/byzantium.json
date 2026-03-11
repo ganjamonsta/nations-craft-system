@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_byzantium"
+  ],
+  "icon": {
+    "item": "kubejs:flag_byzantium"
+  },
+  "order": 2,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.byzantium.name",
+  "description": "origin.nations.byzantium.description"
+}

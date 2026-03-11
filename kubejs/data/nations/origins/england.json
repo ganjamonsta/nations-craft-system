@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_england"
+  ],
+  "icon": {
+    "item": "kubejs:flag_england"
+  },
+  "order": 5,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.england.name",
+  "description": "origin.nations.england.description"
+}

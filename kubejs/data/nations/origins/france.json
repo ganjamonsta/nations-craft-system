@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_france"
+  ],
+  "icon": {
+    "item": "kubejs:flag_france"
+  },
+  "order": 6,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.france.name",
+  "description": "origin.nations.france.description"
+}

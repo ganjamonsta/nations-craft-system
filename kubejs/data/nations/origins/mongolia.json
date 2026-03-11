@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_mongolia"
+  ],
+  "icon": {
+    "item": "kubejs:flag_mongolia"
+  },
+  "order": 8,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.mongolia.name",
+  "description": "origin.nations.mongolia.description"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "apoli:action_on_callback",
+  "entity_action_gained": {
+    "type": "apoli:and",
+    "actions": [
+      {
+        "type": "apoli:execute_command",
+        "command": "gamestage add @s nation_byzantium"
+      },
+      {
+        "type": "apoli:execute_command",
+        "command": "team join nation_byzantium @s"
+      }
+    ]
+  },
+  "name": "Byzantium",
+  "hidden": true
+}

@@ -1,0 +1,63 @@
+{
+  "layer.nations.nation.name": "Nation",
+  "layer.nations.nation.gui_title": "Select your nation",
+  "layer.nations.nation.missing_name": "Nation not selected",
+  "layer.nations.nation.missing_description": "You haven't selected your nation yet. Your choice will determine the crafting recipes available to you.",
+
+  "origin.nations.scandinavia.name": "Scandinavia",
+  "origin.nations.scandinavia.description": "Vikings and seafarers of the North.",
+
+  "origin.nations.byzantium.name": "Byzantium",
+  "origin.nations.byzantium.description": "Heirs of the Eastern Roman Empire.",
+
+  "origin.nations.saracens.name": "Saracens",
+  "origin.nations.saracens.description": "Warriors of the desert and keepers of the East.",
+
+  "origin.nations.germany.name": "Germany",
+  "origin.nations.germany.description": "Knights of the Holy Roman Empire.",
+
+  "origin.nations.england.name": "England",
+  "origin.nations.england.description": "Knights of the Misty Albion.",
+
+  "origin.nations.france.name": "France",
+  "origin.nations.france.description": "Kingdom of lilies and crusaders.",
+
+  "origin.nations.rus.name": "Rus",
+  "origin.nations.rus.description": "Great warriors and defenders of Rus.",
+
+  "origin.nations.mongolia.name": "Mongolia",
+  "origin.nations.mongolia.description": "Horsemen of the Great Steppe.",
+
+  "origin.nations.china.name": "China",
+  "origin.nations.china.description": "The Celestial Empire.",
+
+  "origin.nations.korea.name": "Korea",
+  "origin.nations.korea.description": "Land of morning freshness.",
+
+  "origin.nations.japan.name": "Japan",
+  "origin.nations.japan.description": "Land of the Rising Sun.",
+
+  "origin.nations.greece.name": "Greece",
+  "origin.nations.greece.description": "Cradle of civilization and philosophy.",
+
+  "origin.nations.rome.name": "Rome",
+  "origin.nations.rome.description": "Eternal City and legions of a great empire.",
+
+  "origin.nations.egypt.name": "Egypt",
+  "origin.nations.egypt.description": "Kingdom of pharaohs and pyramids.",
+
+  "nations.prefix.scandinavia": "SCAN",
+  "nations.prefix.byzantium": "BYZ",
+  "nations.prefix.saracens": "SAR",
+  "nations.prefix.germany": "GER",
+  "nations.prefix.england": "ENG",
+  "nations.prefix.france": "FRA",
+  "nations.prefix.rus": "RUS",
+  "nations.prefix.mongolia": "MON",
+  "nations.prefix.china": "CHN",
+  "nations.prefix.korea": "KOR",
+  "nations.prefix.japan": "JPN",
+  "nations.prefix.greece": "GRC",
+  "nations.prefix.rome": "ROM",
+  "nations.prefix.egypt": "EGY"
+}

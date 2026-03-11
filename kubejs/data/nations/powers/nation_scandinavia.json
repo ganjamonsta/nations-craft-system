@@ -1,0 +1,18 @@
+{
+  "type": "apoli:action_on_callback",
+  "entity_action_gained": {
+    "type": "apoli:and",
+    "actions": [
+      {
+        "type": "apoli:execute_command",
+        "command": "gamestage add @s nation_scandinavia"
+      },
+      {
+        "type": "apoli:execute_command",
+        "command": "team join nation_scandinavia @s"
+      }
+    ]
+  },
+  "name": "Scandinavia",
+  "hidden": true
+}

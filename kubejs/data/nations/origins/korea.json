@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_korea"
+  ],
+  "icon": {
+    "item": "kubejs:flag_korea"
+  },
+  "order": 10,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.korea.name",
+  "description": "origin.nations.korea.description"
+}

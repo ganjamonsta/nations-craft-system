@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_germany"
+  ],
+  "icon": {
+    "item": "kubejs:flag_germany"
+  },
+  "order": 4,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.germany.name",
+  "description": "origin.nations.germany.description"
+}

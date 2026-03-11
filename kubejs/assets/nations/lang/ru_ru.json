@@ -1,0 +1,63 @@
+{
+  "layer.nations.nation.name": "место происхождения",
+  "layer.nations.nation.gui_title": "Выберите свою нацию",
+  "layer.nations.nation.missing_name": "Нация не выбрана",
+  "layer.nations.nation.missing_description": "Вы ещё не выбрали свою нацию. Выбор определит доступные рецепты крафта.",
+
+  "origin.nations.scandinavia.name": "Скандинавия",
+  "origin.nations.scandinavia.description": "Викинги и мореплаватели Севера.",
+
+  "origin.nations.byzantium.name": "Византия",
+  "origin.nations.byzantium.description": "Наследники Восточной Римской империи.",
+
+  "origin.nations.saracens.name": "Сарацины",
+  "origin.nations.saracens.description": "Воины пустыни и хранители Востока.",
+
+  "origin.nations.germany.name": "Германия",
+  "origin.nations.germany.description": "Рыцари Священной Римской империи.",
+
+  "origin.nations.england.name": "Англия",
+  "origin.nations.england.description": "Рыцари Туманного Альбиона.",
+
+  "origin.nations.france.name": "Франция",
+  "origin.nations.france.description": "Королевство лилий и крестоносцев.",
+
+  "origin.nations.rus.name": "Русь",
+  "origin.nations.rus.description": "Великие воины и защитники Руси.",
+
+  "origin.nations.mongolia.name": "Монголия",
+  "origin.nations.mongolia.description": "Всадники Великой Степи.",
+
+  "origin.nations.china.name": "Китай",
+  "origin.nations.china.description": "Поднебесная империя.",
+
+  "origin.nations.korea.name": "Корея",
+  "origin.nations.korea.description": "Страна утренней свежести.",
+
+  "origin.nations.japan.name": "Япония",
+  "origin.nations.japan.description": "Страна восходящего солнца.",
+
+  "origin.nations.greece.name": "Греция",
+  "origin.nations.greece.description": "Колыбель цивилизации и философии.",
+
+  "origin.nations.rome.name": "Рим",
+  "origin.nations.rome.description": "Вечный город и легионы великой империи.",
+
+  "origin.nations.egypt.name": "Египет",
+  "origin.nations.egypt.description": "Царство фараонов и пирамид.",
+
+  "nations.prefix.scandinavia": "СКАН",
+  "nations.prefix.byzantium": "ВИЗ",
+  "nations.prefix.saracens": "САР",
+  "nations.prefix.germany": "ГЕР",
+  "nations.prefix.england": "АНГ",
+  "nations.prefix.france": "ФРА",
+  "nations.prefix.rus": "РУС",
+  "nations.prefix.mongolia": "МОН",
+  "nations.prefix.china": "КИТ",
+  "nations.prefix.korea": "КОР",
+  "nations.prefix.japan": "ЯПН",
+  "nations.prefix.greece": "ГРЕ",
+  "nations.prefix.rome": "РИМ",
+  "nations.prefix.egypt": "ЕГИ"
+}

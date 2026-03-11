@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_scandinavia"
+  ],
+  "icon": {
+    "item": "kubejs:flag_scandinavia"
+  },
+  "order": 1,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.scandinavia.name",
+  "description": "origin.nations.scandinavia.description"
+}

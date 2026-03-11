@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_egypt"
+  ],
+  "icon": {
+    "item": "kubejs:flag_egypt"
+  },
+  "order": 14,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.egypt.name",
+  "description": "origin.nations.egypt.description"
+}

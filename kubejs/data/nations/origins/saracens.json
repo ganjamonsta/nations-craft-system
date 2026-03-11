@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_saracens"
+  ],
+  "icon": {
+    "item": "kubejs:flag_saracens"
+  },
+  "order": 3,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.saracens.name",
+  "description": "origin.nations.saracens.description"
+}

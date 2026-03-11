@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_china"
+  ],
+  "icon": {
+    "item": "kubejs:flag_china"
+  },
+  "order": 9,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.china.name",
+  "description": "origin.nations.china.description"
+}

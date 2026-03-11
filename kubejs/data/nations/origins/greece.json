@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "nations:nation_greece"
+  ],
+  "icon": {
+    "item": "kubejs:flag_greece"
+  },
+  "order": 12,
+  "impact": 0,
+  "unchoosable": false,
+  "name": "origin.nations.greece.name",
+  "description": "origin.nations.greece.description"
+}
